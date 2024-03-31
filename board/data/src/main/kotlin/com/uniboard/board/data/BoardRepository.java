@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
 public class BoardRepository {
     public String url = "mongodb://localhost:27017";
     public String nameDatabase = "CreatedBoards";
